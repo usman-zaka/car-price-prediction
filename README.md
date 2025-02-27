@@ -8,7 +8,7 @@ In this project, I leveraged machine learning and data science techniques to  pr
 ✅ Exploratory Data Analysis (EDA) – Visualized data trends and correlations to guide feature selection.\
 ✅ Model Selection & Evaluation – Trained and tested Multiple Linear Regression (MLR), Random Forest Regressor (RFR), and Gradient Boosting Regressor (GBR).\
 ✅ Hyperparameter Tuning – Fine-tuned the best-performing model (GBR) to optimize accuracy.\
-✅ Model Performance Assessment – Evaluated models using R², MSE, RMSE, and MAE and analyzed residual and QQ-plots to ensure robustness.\
+✅ Model Performance Assessment – Evaluated models using R², MSE, RMSE, and MAE and analyzed residual and QQ-plots to ensure robustness.
 
 #### 🔍 Key Takeaways:
 📌 Feature engineering played a major role in model performance.\
